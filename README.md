@@ -1,6 +1,8 @@
 Tachyon
 ========
 
+![alt text](https://raw.githubusercontent.com/Shouldibuyacat/tachyon/master/share/pixmaps/bitcoin256.png)
+
 Copyright (c) 2009-2014 Bitcoin Developers
 
 Copyright (c) 2011-2014 Litecoin Developers
