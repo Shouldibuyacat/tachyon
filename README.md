@@ -12,8 +12,8 @@ Copyright (c) 2018      Tachyon Developers
 What is Tachyon?
 ----------------
 
-Tachyon is a coin with an aim towards educational purposes on how to use cryptocurrency for the public.
-A secondary aim of Tachyon is to be used as funding towards physics research.
+Tachyon is a coin aiming towards educating the public on how to use cryptocurrency.
+A secondary aim of Tachyon is to fund physics research.
  - 5 minute block targets
  - Block reward halves in 500k blocks 
  - 50 000 000 million total coins
